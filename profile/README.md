@@ -1,6 +1,6 @@
-## Hi there, welcome to Mecuritech. 
+## Hi there, welcome to Mecurxitech. 
 
-At MecuriTech, we are passionate about leveraging technology to drive innovation and create impactful solutions for our clients.
+At MecurxiTech, we are passionate about leveraging technology to drive innovation and create impactful solutions for our clients.
 
 <!--
 
